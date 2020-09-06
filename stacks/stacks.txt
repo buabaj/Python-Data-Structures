@@ -1,0 +1,9 @@
+This text file is basically my personal notes on things i learnt whilst teaching myself about the stack data structure from free online resources.
+I cannot write everything down because i am much of a mental learner.
+
+Stacks: So i like to think about stacks as an ordinary stack of pancakes, but in this case, abstract. Stacks are abstract data types which work with the scenario of items being able to be added or removed only from the end of the stack.
+Just like the pancakes, you can only add or take off a pancake from the top(end) of the stack of pancakes. This whole operation denotes the Last In First Out (LIFO) structure. Meaning, the last item to be added to the stack will be the first item to be taken out.
+
+- Because of the need to constantly add or remove items from a stack, the required data type used to implement a stack data structure should be flexible and mutable. In the python programming language, a list is best suited as the preferred data type for stacks since they are mutable data types.
+
+- Operations that can be performed on a stack include adding an item to the stack, removing an item from the stack, checking the last item in the stack, checking the size of the stack and checking if the stack is empty.
