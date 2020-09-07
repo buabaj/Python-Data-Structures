@@ -10,3 +10,7 @@ class stack:
     def add(self, item):
         
         self.item.append(item)
+
+
+
+
